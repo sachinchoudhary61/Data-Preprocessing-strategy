@@ -1,7 +1,7 @@
-📊 Data-Preprocessing-Strategy
+Data-Preprocessing-Strategy
 Welcome to the Data Preprocessing Strategy repository! This project contains a comprehensive set of methods and best practices to clean, transform, and prepare raw datasets for machine learning and data analysis tasks.
 
-🚀 Overview
+Overview
 Data preprocessing is a critical step in any data science or machine learning workflow. This repo provides modular, reusable code and documentation for various preprocessing strategies including:
 
 Data cleaning
@@ -16,7 +16,7 @@ Outlier detection
 
 Data splitting
 
-📁 Folder Structure
+Folder Structure
 
 Edit
 Data-Preprocessing-Strategy/
@@ -35,7 +35,7 @@ Scikit-learn compatible transformers
 
 Logging and exception handling for robustness
 
-🧰 Technologies Used
+Technologies Used
 Python 3.x
 
 pandas
@@ -43,7 +43,7 @@ numpy
 scikit-learn
 seaborn / matplotlib (for data visualization)
 
-📦 Installation
+Installation
 Clone the repository and install the required dependencies:
 git clone https://github.com/your-username/Data-Preprocessing-Strategy.git
 cd Data-Preprocessing-Strategy
