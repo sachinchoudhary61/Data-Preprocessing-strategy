@@ -4,44 +4,36 @@ Welcome to the Data Preprocessing Strategy repository! This project contains a c
 Overview
 Data preprocessing is a critical step in any data science or machine learning workflow. This repo provides modular, reusable code and documentation for various preprocessing strategies including:
 
-Data cleaning
+-  Data cleaning.
+-  Missing value handling.
+-  Feature scaling and transformation.
+-  Categorical encoding.
+-   Outlier detection
+-  Data splitting
 
-Missing value handling
+-  Folder Structure
 
-Feature scaling and transformation
-
-Categorical encoding
-
-Outlier detection
-
-Data splitting
-
-Folder Structure
-
-Edit
+-  Edit
 Data-Preprocessing-Strategy/
 ├── src/ # Python scripts for preprocessing functions
 ├── data/ # Sample datasets for testing
 ├── requirements.txt # List of dependencies
 └── README.md # Project documentation
 
-🔧 Features
+- Features
 
-Modular and customizable preprocessing pipelines
+  - Modular and customizable preprocessing pipelines
+  - Support for both numerical and categorical features
+  - Scikit-learn compatible transformers
 
-Support for both numerical and categorical features
+- Logging and exception handling for robustness
 
-Scikit-learn compatible transformers
+- Technologies Used
+  - Python 3.x
 
-Logging and exception handling for robustness
-
-Technologies Used
-Python 3.x
-
-pandas
-numpy
-scikit-learn
-seaborn / matplotlib (for data visualization)
+-pandas
+-numpy
+-scikit-learn
 
 Installation
 Clone the repository and install the required dependencies:
